@@ -1,6 +1,6 @@
 # Wiris Quizzes Commons question type
 
-[![Build Status](https://travis-ci.com/wiris/moodle-qtype_wq.svg)](https://travis-ci.com/wiris/moodle-qtype_wq)
+[![Moodle Plugin CI](https://github.com/wiris/moodle-qtype_wq/actions/workflows/ci.yml/badge.svg)](https://github.com/wiris/moodle-qtype_wq/actions/workflows/ci.yml)
 
 ## Information
 The Wiris Quizzes question type belongs to the Wiris Quizzes set of questions which enhances the usual Moodle question types with mathematical functionality.
